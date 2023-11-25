@@ -80,6 +80,7 @@
   <ItemGroup>
     <Compile Include="Clases\DBConn.cs" />
     <Compile Include="Clases\Equipo.cs" />
+    <Compile Include="Clases\login.cs" />
     <Compile Include="Clases\Tecnicos.cs" />
     <Compile Include="Clases\Usuarios.cs" />
     <Compile Include="Equipo.aspx.cs">

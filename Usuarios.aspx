@@ -7,7 +7,7 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <div  class="container text-center">
 
-       <h1 style="color: #FFFFFF"> Usuarios </h1>
+       <h3 style="color: #FFFFFF"> Bienvenidos a nuestra pagina Web: <asp:Label ID="Label2"  style="color: #FFFFFF" runat="server" Text="Label"></asp:Label> </h3>
        
     </div>
     <div  >
